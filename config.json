@@ -1,0 +1,182 @@
+[
+  {
+    "ma_period": 110,
+    "asset": "F_QT"
+  },
+  {
+    "ma_period": 50,
+    "asset": "F_QT"
+  },
+  {
+    "ma_period": 90,
+    "asset": "F_QT"
+  },
+  {
+    "ma_period": 100,
+    "asset": "F_EB"
+  },
+  {
+    "ma_period": 180,
+    "asset": "F_EB"
+  },
+  {
+    "ma_period": 130,
+    "asset": "F_EB"
+  },
+  {
+    "ma_period": 10,
+    "asset": "F_CF"
+  },
+  {
+    "ma_period": 20,
+    "asset": "F_CF"
+  },
+  {
+    "ma_period": 80,
+    "asset": "F_CF"
+  },
+  {
+    "ma_period": 20,
+    "asset": "F_W"
+  },
+  {
+    "ma_period": 30,
+    "asset": "F_W"
+  },
+  {
+    "ma_period": 10,
+    "asset": "F_W"
+  },
+  {
+    "ma_period": 160,
+    "asset": "F_NQ"
+  },
+  {
+    "ma_period": 180,
+    "asset": "F_NQ"
+  },
+  {
+    "ma_period": 170,
+    "asset": "F_NQ"
+  },
+  {
+    "ma_period": 50,
+    "asset": "F_RB"
+  },
+  {
+    "ma_period": 60,
+    "asset": "F_RB"
+  },
+  {
+    "ma_period": 70,
+    "asset": "F_RB"
+  },
+  {
+    "ma_period": 110,
+    "asset": "F_DT"
+  },
+  {
+    "ma_period": 140,
+    "asset": "F_DT"
+  },
+  {
+    "ma_period": 100,
+    "asset": "F_DT"
+  },
+  {
+    "ma_period": 100,
+    "asset": "F_DM"
+  },
+  {
+    "ma_period": 110,
+    "asset": "F_DM"
+  },
+  {
+    "ma_period": 90,
+    "asset": "F_DM"
+  },
+  {
+    "ma_period": 20,
+    "asset": "F_C"
+  },
+  {
+    "ma_period": 30,
+    "asset": "F_C"
+  },
+  {
+    "ma_period": 40,
+    "asset": "F_C"
+  },
+  {
+    "ma_period": 100,
+    "asset": "F_ED"
+  },
+  {
+    "ma_period": 170,
+    "asset": "F_ED"
+  },
+  {
+    "ma_period": 80,
+    "asset": "F_ED"
+  },
+  {
+    "ma_period": 90,
+    "asset": "F_MD"
+  },
+  {
+    "ma_period": 80,
+    "asset": "F_MD"
+  },
+  {
+    "ma_period": 100,
+    "asset": "F_MD"
+  },
+  {
+    "ma_period": 140,
+    "asset": "F_SS"
+  },
+  {
+    "ma_period": 150,
+    "asset": "F_SS"
+  },
+  {
+    "ma_period": 160,
+    "asset": "F_SS"
+  },
+  {
+    "ma_period": 100,
+    "asset": "F_GS"
+  },
+  {
+    "ma_period": 90,
+    "asset": "F_GS"
+  },
+  {
+    "ma_period": 110,
+    "asset": "F_GS"
+  },
+  {
+    "ma_period": 100,
+    "asset": "F_UZ"
+  },
+  {
+    "ma_period": 130,
+    "asset": "F_UZ"
+  },
+  {
+    "ma_period": 140,
+    "asset": "F_UZ"
+  },
+  {
+    "ma_period": 70,
+    "asset": "F_NH"
+  },
+  {
+    "ma_period": 40,
+    "asset": "F_NH"
+  },
+  {
+    "ma_period": 80,
+    "asset": "F_NH"
+  }
+]
